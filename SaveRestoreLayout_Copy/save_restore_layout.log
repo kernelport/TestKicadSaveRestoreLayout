@@ -1,0 +1,29 @@
+09-07 15:59:11 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 172:Plugin executed on: 'linux'
+09-07 15:59:11 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 173:Plugin executed with python version: '3.8.10 (default, May 26 2023, 14:05:08) \n[GCC 9.4.0]'
+09-07 15:59:11 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 174:KiCad build version: 7.0.7-7.0.7~ubuntu20.04.1
+09-07 15:59:11 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 175:Plugin version: 2.0.8
+
+09-07 15:59:11 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 176:Frame repr: <wx._core.Frame object at 0x7f2d1980d550>
+09-07 15:59:11 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 194:Anchor footprint reference is 'R1'
+09-07 15:59:13 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 274:Restore layout chosen
+09-07 15:59:22 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 75:Initialization start
+09-07 15:59:22 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 77:Initialization done Group name:
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 675:Getting board info
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 678:Get project schematics and layout data
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 684:Loading saved design
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 706:Source level is:['U_half.kicad_sch']
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 711:Destination footprint is:'R1'
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 712:Destination levels available are:['U_half.kicad_sch']
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 723:Destination level is:['U_half.kicad_sch']
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 728:All sch files required are: ['U_half.kicad_sch']
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 730:Getting current schematics hash
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 741:Source hash is:'cc041edcc8f636a4e58b3e41f01afbbe'
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 742:Destination hash is: 'cc041edcc8f636a4e58b3e41f01afbbe'
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 759:Get layout data from saved board
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 907:Replicating footprints
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 1068:Replicating tracks
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 1121:Replicating zones
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 1185:Replicating text
+09-07 15:59:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 1219:Replicating drawings
