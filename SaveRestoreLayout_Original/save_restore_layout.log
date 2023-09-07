@@ -1,31 +1,31 @@
-09-07 15:33:53 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 172:Plugin executed on: 'linux'
-09-07 15:33:53 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 173:Plugin executed with python version: '3.8.10 (default, May 26 2023, 14:05:08) \n[GCC 9.4.0]'
-09-07 15:33:53 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 174:KiCad build version: 7.0.7-7.0.7~ubuntu20.04.1
-09-07 15:33:53 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 175:Plugin version: 2.0.8
+09-07 15:42:27 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 172:Plugin executed on: 'linux'
+09-07 15:42:27 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 173:Plugin executed with python version: '3.8.10 (default, May 26 2023, 14:05:08) \n[GCC 9.4.0]'
+09-07 15:42:27 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 174:KiCad build version: 7.0.7-7.0.7~ubuntu20.04.1
+09-07 15:42:27 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 175:Plugin version: 2.0.8
 
-09-07 15:33:53 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 176:Frame repr: <wx._core.Frame object at 0x7fa97edc35e0>
-09-07 15:33:53 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 194:Anchor footprint reference is 'R1'
-09-07 15:33:55 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 203:Save layout chosen
-09-07 15:33:55 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 354:Working on /home/neuber/Kunden/Kernelport/kicad/SaveRestoreLayout_Original/SaveRestoreLayout_Original/SaveRestoreLayout_Original.kicad_pcb
-09-07 15:33:55 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
-09-07 15:33:55 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 359:Saving the current board temporary in order to leave current layout intact
-09-07 15:33:55 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 365:Saving board as tempfile: /tmp/temp_board_file_for_save.kicad_pcb
-09-07 15:33:55 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 370:Loaded temp boardfile: /tmp/temp_board_file_for_save.kicad_pcb
-09-07 15:33:55 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 371:Get project schematics and layout data
-09-07 15:33:55 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 250:Saving the layout in '/home/neuber/Kunden/Kernelport/kicad/SaveRestoreLayout_Original/SaveRestoreLayout_Original/U_half.pckl' for level 0
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 382:Saving layout for level: ['U_half']
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 383:Calculating hash of the layout schematics
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 387:Saving hash for files: ['U_half.kicad_sch']
-09-07 15:34:38 root 398:Source footprints are: ['R2', 'R1']
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 409:Removing everything else from the layout
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 476:Removing text
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 455:Removing drawing
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 497:Removing zones
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 516:Removing tracks
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 518:Bounding box points: (89161000, 95243000, 146260000, 149333000)
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 539:Removing footprints
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 427:Saving layout in temporary file
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 431:Reading layout as text
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 438:Saving layout data
-09-07 15:34:38 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 452:Successfully saved the layout
+09-07 15:42:27 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 176:Frame repr: <wx._core.Frame object at 0x7fbf0762c5e0>
+09-07 15:42:27 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 194:Anchor footprint reference is 'R1'
+09-07 15:42:28 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 203:Save layout chosen
+09-07 15:42:28 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 354:Working on /home/neuber/Kunden/Kernelport/kicad/SaveRestoreLayout_Original/SaveRestoreLayout_Original/SaveRestoreLayout_Original.kicad_pcb
+09-07 15:42:28 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
+09-07 15:42:28 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 359:Saving the current board temporary in order to leave current layout intact
+09-07 15:42:29 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 365:Saving board as tempfile: /tmp/temp_board_file_for_save.kicad_pcb
+09-07 15:42:29 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 370:Loaded temp boardfile: /tmp/temp_board_file_for_save.kicad_pcb
+09-07 15:42:29 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 371:Get project schematics and layout data
+09-07 15:42:29 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 250:Saving the layout in '/home/neuber/Kunden/Kernelport/kicad/SaveRestoreLayout_Original/SaveRestoreLayout_Original/U_half.pckl' for level 0
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 382:Saving layout for level: ['U_half']
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 383:Calculating hash of the layout schematics
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 387:Saving hash for files: ['U_half.kicad_sch']
+09-07 15:42:37 root 398:Source footprints are: ['R2', 'R1']
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 409:Removing everything else from the layout
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 476:Removing text
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 455:Removing drawing
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 497:Removing zones
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 516:Removing tracks
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 518:Bounding box points: (89161000, 95243000, 146260000, 149333000)
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 539:Removing footprints
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 427:Saving layout in temporary file
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 431:Reading layout as text
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 438:Saving layout data
+09-07 15:42:37 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 452:Successfully saved the layout

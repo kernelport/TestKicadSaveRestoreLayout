@@ -155,7 +155,7 @@
   (symbol (lib_id "Device:R") (at 123.19 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 207da70a-3120-45a2-a888-f64992ee4fd7)
-    (property "Reference" "R?" (at 125.73 87.63 0)
+    (property "Reference" "R2" (at 125.73 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 125.73 90.17 0)
@@ -172,12 +172,7 @@
     (instances
       (project "SaveRestoreLayout_Original"
         (path "/77dfa459-80c3-47cd-804e-1711acb5c83d/a587b1de-fcac-40bf-8a11-56b95432cd59"
-          (reference "R?") (unit 1)
-        )
-      )
-      (project "SaveRestoreLayout_Copy"
-        (path "/f7049a7e-2ee3-423f-8203-c90463fac327/9e96eef9-761d-4371-b289-d9fc0db18200"
-          (reference "R3") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -186,7 +181,7 @@
   (symbol (lib_id "power:+3V3") (at 123.19 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 776852b5-bccd-48c0-adf1-b9df0585ac89)
-    (property "Reference" "#PWR?" (at 123.19 73.66 0)
+    (property "Reference" "#PWR03" (at 123.19 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 123.19 64.77 0)
@@ -202,11 +197,6 @@
     (instances
       (project "SaveRestoreLayout_Original"
         (path "/77dfa459-80c3-47cd-804e-1711acb5c83d/a587b1de-fcac-40bf-8a11-56b95432cd59"
-          (reference "#PWR?") (unit 1)
-        )
-      )
-      (project "SaveRestoreLayout_Copy"
-        (path "/f7049a7e-2ee3-423f-8203-c90463fac327/9e96eef9-761d-4371-b289-d9fc0db18200"
           (reference "#PWR03") (unit 1)
         )
       )
@@ -216,7 +206,7 @@
   (symbol (lib_id "power:GND") (at 123.19 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c545801d-6e79-4625-a531-26433fd76680)
-    (property "Reference" "#PWR?" (at 123.19 101.6 0)
+    (property "Reference" "#PWR04" (at 123.19 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 123.19 100.33 0)
@@ -232,11 +222,6 @@
     (instances
       (project "SaveRestoreLayout_Original"
         (path "/77dfa459-80c3-47cd-804e-1711acb5c83d/a587b1de-fcac-40bf-8a11-56b95432cd59"
-          (reference "#PWR?") (unit 1)
-        )
-      )
-      (project "SaveRestoreLayout_Copy"
-        (path "/f7049a7e-2ee3-423f-8203-c90463fac327/9e96eef9-761d-4371-b289-d9fc0db18200"
           (reference "#PWR04") (unit 1)
         )
       )
@@ -246,7 +231,7 @@
   (symbol (lib_id "Device:R") (at 123.19 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d6ed3cf8-575b-4fd6-933c-f5992520677b)
-    (property "Reference" "R?" (at 125.73 74.93 0)
+    (property "Reference" "R1" (at 125.73 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 125.73 77.47 0)
@@ -263,12 +248,7 @@
     (instances
       (project "SaveRestoreLayout_Original"
         (path "/77dfa459-80c3-47cd-804e-1711acb5c83d/a587b1de-fcac-40bf-8a11-56b95432cd59"
-          (reference "R?") (unit 1)
-        )
-      )
-      (project "SaveRestoreLayout_Copy"
-        (path "/f7049a7e-2ee3-423f-8203-c90463fac327/9e96eef9-761d-4371-b289-d9fc0db18200"
-          (reference "R2") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
